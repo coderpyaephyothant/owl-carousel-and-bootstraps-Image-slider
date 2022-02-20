@@ -1,0 +1,30 @@
+
+        .carousel-item {
+            height: 32rem;
+            background: black;
+            float: none;
+            padding-bottom: 30px;
+            color: white;
+            position: relative;
+        }
+        #myCarousel {
+            margin-bottom: 10px;
+        }
+        .container {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding-bottom: 30px;
+        }
+        .overlay-image {
+            position: absolute;
+            top: 0;
+            right:0 ;
+            bottom:0 ;
+            left: 0;
+            background-position: center;
+            background-size:cover;
+            opacity: 0.8;
+        }
+    
